@@ -22,3 +22,6 @@ Since no additional modules are required, there is no need for installation of e
                python3 age_calculator.py
 
 ```
+## *Author Name*
+
+[Shravan Dalavi](https://github.com/ShravanDalavi)
